@@ -13,4 +13,12 @@ This one contains essential, common commands and binary executables e.g ls, CP, 
 3. /boot
 This directory contains all the files needed to boot a Linux system. It contains kernel files loaded during startup Example: initrd.img-2.6.32-24-generic.
 4. /dev
+This contains device files in Linux that bridges hardware and software i.e. acts as an interface between them. There are _block devices_ e.g microphone and _character devices_ e.g speaker.
+These include terminal devices, usb, or any device attached to the system.
+Example: /dev/tty1, /dev/usbmon0
+5. /etc
+6. 
+
+
+##this study is done in sync with the geeksforgeeks documentation of filesystem hierarchy structure
 
