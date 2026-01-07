@@ -12,19 +12,29 @@ The root directory is the one from which all other directories branch off from. 
 run tree and tell it to start with /, you will see the whole directory tree, all directories and all the subdirectories in the whole system, with all their files.
 
 Now **/root** is the root user's home directory, which is not the same as **/**. If you try to create a file or folder in / as a non root user, there will be a denied error.
+
+
 2. /bin
 This one contains binaries- essential, common commands and executables e.g ls, cp, dir, basic tools for making & removing files and directories etc. that system users make use of.
+
+
 3. /boot
 This directory contains all the files needed to boot/start a Linux system. It contains kernel files loaded during startup Example: initrd.img-2.6.32-24-generic etc. and should not be tampered with😉.
+
+
 4. /dev
 This contains device files in Linux that bridges hardware and software i.e. acts as an interface between them. 
 These include terminal devices, USB, or any device attached to the system.
 if you plug in a new webcam or a USB pendrive into your machine, a new device entry will automatically pop up
 Examples: /dev/tty1, /dev/usbmon0
+
+
 5. /etc
 "et cetera" was the literal meaning of this directory in the earlier linuxes because it was a place to dump system files. But now, it is the "Everything to Configure" ; it contains configuration files for system applications, users e.g name of system, users, passwords machine names etc. Example: /etc/resolv.conf. Note etc might be expanded to different things but the meaning remains the same.
+
+
 6. /home
-This us where user's personal directories are found.
+This is where user's personal directories are found. Each user can create, delete, or modify files only in their own home directory and cannot access others’ home directories.
 
 
 ##this study is done in sync with the 'geeksforgeeks' and 'Linux Foundation'  documentation of filesystem hierarchy structure.
