@@ -49,3 +49,12 @@ Shared libraries are required for some applications to run and these libraries a
 
 ##this study is done in sync with the 'geeksforgeeks' and 'Linux Foundation'  documentation of filesystem hierarchy structure.
 
+8. /media
+
+The media directory is one which external storage (when plugged in) is mounted upon for access by the user. For example if you insert a hard drive, you will see its details in this directory 
+
+9. /opt
+
+This contains software built from ground up that are not part of the built in installation of your system i.e. add on applications. The applications go into the opt/bin and the libraries in opt/lib.
+
+
