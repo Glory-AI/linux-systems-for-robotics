@@ -57,4 +57,7 @@ The media directory is one which external storage (when plugged in) is mounted u
 
 This contains software built from ground up that are not part of the built in installation of your system i.e. add on applications. The applications go into the opt/bin and the libraries in opt/lib.
 
+10. /srv 
+
+This directory contains data for servers. When running a web app etc. on your system, the HTML files stay here. It contains server specific related services.
 
