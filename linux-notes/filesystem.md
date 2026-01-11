@@ -61,3 +61,6 @@ This contains software built from ground up that are not part of the built in in
 
 This directory contains data for servers. When running a web app etc. on your system, the HTML files stay here. It contains server specific related services.
 
+19. /sys
+
+A directory where you can manipulate devices connected to your computer e.g. increasing the brightness of a torch.
