@@ -55,7 +55,7 @@ The media directory is one which external storage (when plugged in) is mounted u
 
 9. /opt
 
-This contains software built from ground up that are not part of the built in installation of your system i.e. add on applications. The applications go into the opt/bin and the libraries in opt/lib.
+This contains optional software built from ground up that are not part of the built in installation of your system i.e. add on applications. The applications go into the opt/bin and the libraries in opt/lib.
 
 10. /srv 
 
