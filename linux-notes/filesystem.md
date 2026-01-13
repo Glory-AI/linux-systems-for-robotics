@@ -61,6 +61,11 @@ This contains optional software built from ground up that are not part of the bu
 
 This directory contains data for servers. When running a web app etc. on your system, the HTML files stay here. It contains server specific related services.
 
-19. /sys
+11. /tmp
+
+This is where temporary files are stored which are out there by running apps.
+
+12. /sys
 
 A directory where you can manipulate devices connected to your computer e.g. increasing the brightness of a torch.
+
