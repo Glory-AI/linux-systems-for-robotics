@@ -22,7 +22,7 @@ This one contains binaries- essential, common commands and executables e.g ls, c
 
 3. /boot
 
-This directory contains all the files needed to boot/start a Linux system. It contains kernel files loaded during startup Example: initrd.img-2.6.32-24-generic etc. and should not be tampered with😉.
+This directory contains all the files needed to boot/start a Linux system. It contains kernel files loaded during startup Example: initrd.img-2.6.32-24-generic etc. and should not be tampered with.
 
 
 4. /dev
@@ -47,7 +47,6 @@ This is where user's personal directories are found. Each user can create, delet
 
 Shared libraries are required for some applications to run and these libraries are stored in the **/lib**. It contains codes your applications might need during runtime.
 
-##this study is done in sync with the 'geeksforgeeks' and 'Linux Foundation'  documentation of filesystem hierarchy structure.
 
 8. /media
 
@@ -68,4 +67,6 @@ This is where temporary files are stored which are out there by running apps.
 12. /sys
 
 A directory where you can manipulate devices connected to your computer e.g. increasing the brightness of a torch.
+
+##this study is done in sync with the 'geeksforgeeks' and 'Linux Foundation'  documentation of filesystem hierarchy structure
 
