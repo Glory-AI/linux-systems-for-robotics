@@ -30,7 +30,7 @@ This directory contains all the files needed to boot/start a Linux system. It co
 
 This contains device files in Linux that bridges hardware and software i.e. acts as an interface between them. 
 These include terminal devices, USB, or any device attached to the system.
-if you plug in a new webcam or a USB pendrive into your machine, a new device entry will automatically pop up
+if you plug in a new webcam or a USB pendrive into your machine, a new device entry will automatically pop up.
 Examples: /dev/tty1, /dev/usbmon0
 
 
