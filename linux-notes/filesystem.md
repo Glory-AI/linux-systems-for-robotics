@@ -1,4 +1,4 @@
-WSL / UBUNTU Installed
+Provided WSL / UBUNTU Installed
 
 Linux File Hierarchy Structure also known as the Filesystem Hierarchy Standard(FHS) is the directory structure and content in Unix- related operating systems.
 The FHS is maintained by the Linux Foundation.
