@@ -36,7 +36,8 @@ Examples: /dev/tty1, /dev/usbmon0
 
 5. /etc
 
-"et cetera" was the literal meaning of this directory in the earlier linuxes because it was a place to dump system files. But now, it is the "Everything to Configure" ; it contains configuration files for system applications, users e.g name of system, users, passwords machine names etc. Example: /etc/resolv.conf. Note etc might be expanded to different things but the meaning remains the same.
+"et cetera" was the literal meaning of this directory in the earlier linuxes because it was a place to dump system files. 
+But now, it is the "Everything to Configure" ; it contains configuration files for system applications, users e.g name of system, users, passwords machine names etc. Example: /etc/resolv.conf. Note etc might be expanded to different things but the meaning remains the same.
 
 
 6. /home
