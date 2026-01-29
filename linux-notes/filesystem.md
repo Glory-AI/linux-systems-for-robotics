@@ -71,7 +71,7 @@ This is where temporary files are stored which are out there by running apps.
 A directory where you can manipulate devices connected to your computer e.g. increasing the brightness of a torch.
 
 cd 
-will take you to the directory of your choice (cd stands for change directory
+will take you to the directory of your choice. cd stands for change directory
 
 ##this study is done in sync with the 'geeksforgeeks' and 'Linux Foundation'  documentation of filesystem hierarchy structure
 
