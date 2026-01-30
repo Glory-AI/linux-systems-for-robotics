@@ -73,5 +73,5 @@ A directory where you can manipulate devices connected to your computer e.g. inc
 cd 
 will take you to the directory of your choice. cd stands for change directory
 
-##this study is done in sync with the 'geeksforgeeks' and 'Linux Foundation'  documentation of filesystem hierarchy structure
+# this study is done in sync with the 'geeksforgeeks' and 'Linux Foundation'  documentation of filesystem hierarchy structure
 
