@@ -6,6 +6,8 @@ The FHS is maintained by the Linux Foundation.
 * In FHS, all files and directories appear under the root directory '/'
 * Most directories in UNIX operating systems are used in same way and are not considered to be used by non-Linux platforms.
 
+Every of the commands run in Linux is done on an interface called 'Terminal'
+
 1. / (Root)
 
 Every Linux system has the root directory represented by a forward slash. It is base point and there is no directory above it. 
