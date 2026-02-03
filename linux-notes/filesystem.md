@@ -1,5 +1,19 @@
 Provided WSL/UBUNTU Installed
 
+ABOUT LINUX:
+A Linux system consists of several layers: 
+* Hardware: The physical machine (CPU, RAM, disk).
+* Kernel: The heart of the OS; it manages hardware resources and communicates between software and hardware.
+* Shell (CLI): A command-line interface that interprets user commands.
+* Desktop Environment (GUI): The user-friendly interface, such as GNOME or KDE, for those who prefer not to use the command line.
+
+Linux distributions tailor the OS for specific needs: 
+* Ubuntu: Very user-friendly, great for beginners.
+* Linux Mint: Familiar interface, similar to Windows.
+* Debian: Known for extreme stability.
+* Kali Linux: Pre-loaded with tools for security auditing and penetration testing.
+* Arch Linux: Designed for experienced users who want full control.
+
 Linux File Hierarchy Structure also known as the Filesystem Hierarchy Standard(FHS) is the directory structure and content in Unix- related operating systems.
 The FHS is maintained by the Linux Foundation.
 
