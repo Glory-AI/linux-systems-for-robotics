@@ -5,7 +5,7 @@ A Linux system consists of several layers:
 * Hardware: The physical machine (CPU, RAM, disk).
 * Kernel: The heart of the OS; it manages hardware resources and communicates between software and hardware.
 * Shell (CLI): A command-line interface that interprets user commands.
-* Desktop Environment (GUI): The user-friendly interface, such as GNOME or KDE, for those who prefer not to use the command line.
+* Desktop Environment (GUI): The user-friendly interface, such as GNOME or KDE, for those who prefer not to use the command line interface.
 
 Linux distributions tailor the OS for specific needs: 
 * Ubuntu: Very user-friendly, great for beginners.
