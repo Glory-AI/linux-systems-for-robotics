@@ -1,3 +1,3 @@
 # Linux Systems For Robotics
 
-Concepts and What to know 
+This repository was opened up to lean abou tthe linux commands and dynamics ofor robotic systems
