@@ -89,5 +89,13 @@ A directory where you can manipulate devices connected to your computer e.g. inc
 cd 
 will take you to the directory of your choice. cd stands for change directory
 
-# this study is done in sync with the 'geeksforgeeks' and 'Linux Foundation'  documentation of filesystem hierarchy structure
+This study is done in sync with the 'geeksforgeeks' and 'Linux Foundation'  documentation of filesystem hierarchy structure
+
+
+
+#### Drone-Specific Software Stack
+* ROS 2 (Robot Operating System): The most critical skill for advanced drone autonomy. Learn ROS 2 Humble (on Ubuntu 22.04) or Jazzy (on Ubuntu 24.04).
+* PX4/ArduPilot: These are open-source flight stacks. Learn to use SITL (Simulation In The Loop) to run drone firmware in a virtual environment on Linux.
+* MAVLink/MAVProxy: The communication protocol between the drone and Ground Control Stations (GCS). MAVProxy is a CLI-based GCS frequently used in Linux.
+* Gazebo Simulator: A 3D simulation tool used for testing flight dynamics, computer vision, and sensors before taking them to the real world.
 
